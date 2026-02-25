@@ -1,0 +1,2 @@
+usr/share/QDK/bin/qbuild usr/bin/qbuild
+usr/share/QDK/bin/qpkg_encrypt usr/bin/qpkg_encrypt

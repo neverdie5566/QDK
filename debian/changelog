@@ -1,0 +1,5 @@
+qdk (2.4.1) stable; urgency=medium
+
+  * Add Debian packaging and GitHub release workflow
+
+ -- QNAP QDK <qdk@qnap.com>  Tue, 25 Feb 2026 00:00:00 +0800
